@@ -1,0 +1,8 @@
+/Pods
+/Podfile.lock
+/SwiftySRP.xcworkspace/xcuserdata
+.DS_Store
+/build
+xcuserdata
+/Carthage/Build
+/Carthage
